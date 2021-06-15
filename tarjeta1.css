@@ -87,6 +87,12 @@ a{
     box-shadow: 0 0 30px grey;
 }
 
+footer{
+    background-color: aquamarine;
+    height: 20px;
+    position: fixed;
+}
+
 @media screen and (max-width:600px){
     .tarjetas{
     }
